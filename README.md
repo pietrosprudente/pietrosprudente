@@ -8,3 +8,6 @@
 
 ## Hobbies
 - I like playing PlayStation + Nintendo games and music on my iPod
+
+## How to contact me?
+- email me @ ```contact.pietrosp@proton.me``` or issues on this repo!
